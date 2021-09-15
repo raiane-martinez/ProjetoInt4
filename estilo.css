@@ -1,0 +1,34 @@
+body{
+	
+	background-color:lawngreen;
+	/* aqui está sendo definida a cor de fundo da página */
+}
+
+h2{
+
+	color:darkgreen;
+	/* aqui está sendo definida a cor da fonte do nome "Cadastro" */
+	text-align: center;
+	/* aqui está sendo definida a direção do nome "Cadastro", neste caso está centralizada */
+}
+
+
+Form{
+	text-align: center;
+
+}
+
+Footer{
+	clear:  both;
+	background-color: white;
+	height: 20px;
+}
+
+p{
+	color: black;
+	font-size: 15px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+
